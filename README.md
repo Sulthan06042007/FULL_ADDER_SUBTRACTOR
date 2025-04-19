@@ -2,8 +2,8 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ``` 
-Developed by: Hari prasath R K
-RegisterNumber: 212223040055
+Developed by: MOHAMED SULTHAN A
+RegisterNumber: 212223230125
 ```
 
 **AIM:**
